@@ -1,3 +1,7 @@
-holaaaaaaaaaaaaaaaaa
 
+
+<<<<<<< HEAD
 otro cambio en master
+=======
+hola branch
+>>>>>>> branch1
